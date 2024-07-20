@@ -1,4 +1,4 @@
-![GIF](xqc-dance.gif "xqc :3") 
+[![xqc-dance.gif](xqc-dance.gif)](xqc-dance.gif)
 <!--
 **karearl/karearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

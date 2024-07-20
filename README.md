@@ -1,4 +1,9 @@
-![GIF](xqc-dance.gif "xqc :3") { width: 100% }
+<style>
+  img {
+    width: 100%;
+  }
+</style>
+![GIF](xqc-dance.gif "xqc :3") 
 <!--
 **karearl/karearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
